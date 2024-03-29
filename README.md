@@ -1,18 +1,17 @@
 ### Hi there 👋
 
 I do Rust development for web backends and Linux, I also do various small projects (mostly in Rust).   
-A lot of my open-source projects happen on GitLab due to just basically superior features over GitHub for certain projects, but the repos are mirrored onto GitHub.   
-My GitLab is [uwueviee](https://gitlab.com/uwueviee).
+A lot of my open-source projects happen on a private forge due to just basically superior features over GitHub for certain projects and more data control, but some of the repos are mirrored onto GitHub.   
+My Git forge account is over at [https://git.gaycatgirl.sex/evie/](https://git.gaycatgirl.sex/evie/).
 
-My main project is currently [yiffOS](https://yiffos.gay/), An experimental Linux® distribution with a custom package manager. ([Hosted on GitLab](https://gitlab.com/yiffos))
+My main project is currently [yiffOS](https://yiffos.gay/), An experimental Linux® distribution with a custom package manager. ([Hosted on its own Git forge](https://git.yiffos.gay))
 
-I will also sometimes work on [Lightspeed.tv](https://lightspeed.tv), mostly just ops right now.
+Another large project I'm working on is [Epl](https://git.gaycatgirl.sex/epl/epl), a Rust based reimplementation of the Discord backend which intends to be compatible with [Litecord](https://gitlab.com/litecord/litecord)'s ecosystem.
 
-I'm also writing a voice server for the [Litecord](https://gitlab.com/litecord/litecord) project following the [LVSP](https://gitlab.com/litecord/litecord/-/blob/master/docs/lvsp.md) protocol called [bannana pho](https://gitlab.com/uwueviee/bannana-pho) using Rust, Tokio, Tungstenite, and Redis.
+I'm also writing a voice server for [Litecord](https://gitlab.com/litecord/litecord) and [Epl](https://git.gaycatgirl.sex/epl/epl) following the [LVSP](https://gitlab.com/litecord/litecord/-/blob/master/docs/lvsp.md) protocol called [bannana pho](https://git.gaycatgirl.sex/litecord/bannana-pho), though this is due for a complete rewrite.
 
 If you want to contact me, my socials are listed below.
 
-* Twitter: [@uwueviee](https://twitter.com/uwueviee)
-* Mastodon: [@eviee@stop.voring.me](https://stop.voring.me/@eviee)
-* Discord: eviee#0475
-* Website: https://uwueviee.live 
+* Fediverse: [@evie@free.gaycatgirl.sex](https://free.gaycatgirl.sex/evie)
+* Discord: uwueviee
+* Website: https://eviee.gay
